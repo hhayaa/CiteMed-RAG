@@ -101,14 +101,3 @@ CiteMed-RAG/
 - Knowledge Base: 15 documents (WHO, MedlinePlus, NHS, ADA, AHA)
 - Evaluation: LLM-as-judge, 6 criteria, 25 test cases
 
-## References
-- Huyen, C. (2025). AI Engineering. O Reilly.
-- Alammar, J. and Groenendiijk, M. (2025). Hands-On Large Language Models.
-- Google AI Documentation: https://ai.google.dev/docs
-- ChromaDB: https://docs.trychroma.com
-- WHO Fact Sheets: https://www.who.int/news-room/fact-sheets
-- MedlinePlus: https://medlineplus.gov
-
-## Acknowledgments
-This project used AI assistants (OpenAI ChatGPT + Google Gemini) for prompt wording
-and report drafting. All design choices, evaluation, and analysis are original.
