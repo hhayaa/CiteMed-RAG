@@ -66,7 +66,9 @@ Evaluation:
 ## Setup Instructions
 
 ### Deployed App
-Visit the Streamlit Cloud deployment and enter your Gemini API key in the sidebar.
+ Visit the deployed app: https://citemed-rag-775hnbixqkaetxnynrzy9n.streamlit.app 
+ Enter your Gemini API key in the sidebar.
+
 
 ### Run Locally
 ```bash
