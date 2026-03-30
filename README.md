@@ -1,7 +1,6 @@
 # CiteMed-RAG: RAG-Enhanced Bilingual Patient-Education Assistant
 
-**Assignment 2 -- LLM Engineering Course**
-**Track:** A -- Retrieval-Augmented Generation (RAG)
+**Assignment 2 - LLMs and Foundation AI Models**
 **Domain:** Healthcare
 
 ---
@@ -60,7 +59,7 @@ User Query (EN/AR)
   Grounded Response with Citations
 
 Evaluation:
-  25 Test Cases --> A1 + A2 --> Judge (gemini-2.5-flash-lite, different model)
+  25 Test Cases --> A1 + A2 --> Judge (gemini-2.5-flash-lite, not the generation model)
   6 Criteria: Clarity, Safety, Factuality, Groundedness, Citation Accuracy, Retrieval Relevance
 ```
 
@@ -71,7 +70,7 @@ Visit the Streamlit Cloud deployment and enter your Gemini API key in the sideba
 
 ### Run Locally
 ```bash
-git clone https://github.com/USERNAME/CiteMed-RAG.git
+git clone https://github.com/hhayaa/CiteMed-RAG.git
 cd CiteMed-RAG
 pip install -r requirements.txt
 streamlit run app.py
