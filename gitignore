@@ -1,0 +1,10 @@
+.env
+*.key
+*api_key*
+__pycache__/
+*.pyc
+chromadb/
+cache/
+*.tmp
+.ipynb_checkpoints/
+.DS_Store

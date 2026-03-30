@@ -1,0 +1,109 @@
+{
+  "documents": [
+    {
+      "id": "doc_01",
+      "title": "High Blood Pressure (Hypertension)",
+      "source": "WHO Fact Sheet -- Hypertension",
+      "lang": "en",
+      "text": "High blood pressure (hypertension) is a condition in which the force of blood against the artery walls is consistently too high. Blood pressure is recorded as two numbers: systolic (pressure when the heart beats) over diastolic (pressure when the heart rests). A normal reading is below 120/80 mmHg. Hypertension is generally defined as blood pressure at or above 140/90 mmHg. Risk factors include excess salt intake, low potassium intake, obesity, physical inactivity, excessive alcohol use, tobacco use, stress, older age, genetics, and chronic kidney disease. Hypertension usually has no symptoms, which is why it is called the silent killer. Untreated hypertension increases risk of heart attack, stroke, heart failure, kidney disease, and vision loss. Management includes lifestyle changes: reducing salt, eating more fruits and vegetables, regular physical activity, maintaining healthy weight, limiting alcohol, and quitting tobacco. Medications may include ACE inhibitors, ARBs, calcium channel blockers, or diuretics, but medication decisions should be made by a healthcare provider. Regular monitoring is essential. Seek emergency care if blood pressure exceeds 180/120 mmHg with symptoms such as severe headache, chest pain, vision problems, or difficulty breathing."
+    },
+    {
+      "id": "doc_02",
+      "title": "Ibuprofen -- Patient Information",
+      "source": "MedlinePlus Drug Information",
+      "lang": "en",
+      "text": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain, reduce inflammation, and lower fever. Common side effects include stomach pain, heartburn, nausea, vomiting, gas, constipation, and diarrhea. Serious side effects include stomach ulcers or bleeding (signs: black or bloody stools, vomiting blood), kidney problems, liver problems, and cardiovascular events. Take with food or milk to reduce stomach upset. Do not exceed the recommended dose. People with stomach ulcers, kidney disease, heart disease, or taking blood thinners should consult their doctor. Allergic reactions can include rash, swelling of face or throat, or difficulty breathing -- seek emergency help. Long-term or high-dose use increases cardiovascular and gastrointestinal risks. Ibuprofen may interact with aspirin, warfarin, lithium, methotrexate, and certain blood pressure medications."
+    },
+    {
+      "id": "doc_03",
+      "title": "Common Cold -- Symptoms and Care",
+      "source": "WHO / MedlinePlus",
+      "lang": "en",
+      "text": "The common cold is a viral infection of the upper respiratory tract. Over 200 viruses can cause colds, with rhinoviruses being most common. Symptoms appear 1-3 days after exposure: runny or stuffy nose, sneezing, sore throat, cough, mild body aches, mild headache, low-grade fever. Symptoms peak around day 3-4 and resolve within 7-10 days. Self-care: rest, stay hydrated, saline nasal drops, gargle salt water, humidifier, over-the-counter pain relievers. Antibiotics do NOT treat colds because colds are viral, not bacterial. Prevention: handwashing, avoid touching face, avoid close contact with sick people. Seek care if symptoms last over 10 days, high fever above 39C, difficulty breathing, or chest pain."
+    },
+    {
+      "id": "doc_04",
+      "title": "Type 2 Diabetes -- Patient Education",
+      "source": "WHO Fact Sheet -- Diabetes",
+      "lang": "en",
+      "text": "Type 2 diabetes is a chronic condition where the body resists insulin or does not produce enough. Insulin allows sugar to enter cells for energy. In Type 2 diabetes sugar builds up in the blood. Risk factors: obesity, inactivity, family history, age over 45. Symptoms: increased thirst, frequent urination, hunger, weight loss, fatigue, blurred vision, slow-healing sores. Many people have no symptoms initially. Complications: heart disease, stroke, kidney damage, eye damage, neuropathy, foot problems. Management: healthy eating, exercise, healthy weight, blood sugar monitoring, possibly medication or insulin. HbA1c reflects average blood sugar over 2-3 months; target usually below 7 percent. Regular checkups are essential."
+    },
+    {
+      "id": "doc_05",
+      "title": "Sleep Hygiene -- Healthy Sleep Habits",
+      "source": "MedlinePlus / Sleep Foundation",
+      "lang": "en",
+      "text": "Sleep hygiene refers to habits promoting quality sleep. Good practices: consistent schedule, comfortable room (cool, dark, quiet), avoid screens 30-60 min before bed, limit caffeine after noon, avoid large meals and alcohol near bedtime, exercise regularly but not within 2-3 hours of bed, manage stress, use bed only for sleep. Adults need 7-9 hours. Poor sleep signs: daytime sleepiness, difficulty concentrating, irritability. Chronic deprivation is linked to obesity, diabetes, cardiovascular disease, depression, weakened immunity. Consult a provider if problems persist despite good sleep hygiene."
+    },
+    {
+      "id": "doc_06",
+      "title": "Paracetamol (Acetaminophen) Safety",
+      "source": "MedlinePlus / NHS",
+      "lang": "en",
+      "text": "Paracetamol is a pain reliever and fever reducer. Standard adult dose: 500-1000mg every 4-6 hours, maximum 4000mg (4g) per day. Exceeding this dose causes serious liver damage. Overdose signs: nausea, vomiting, loss of appetite, confusion, jaundice -- seek emergency help immediately. Paracetamol is found in many combination products so check all labels to avoid accidental overdose. People with liver disease or heavy alcohol use should use lower doses or avoid it. Generally considered safe in pregnancy when used as directed. Does not typically cause stomach irritation like NSAIDs. Consult a doctor if pain or fever persists beyond 3-5 days."
+    },
+    {
+      "id": "doc_07",
+      "title": "Asthma -- Patient Education",
+      "source": "WHO Fact Sheet -- Asthma",
+      "lang": "en",
+      "text": "Asthma is a chronic condition affecting airways in the lungs. Airways become inflamed and narrowed. Triggers include allergens (dust, pollen, pets, mold), infections, cold air, exercise, smoke, strong odors, and stress. Symptoms: wheezing, shortness of breath, chest tightness, coughing especially at night. Asthma cannot be cured but can be controlled. Treatment usually involves two types of inhalers: a controller (taken daily to reduce inflammation) and a rescue inhaler (used during flare-ups). An asthma action plan from a doctor helps manage daily symptoms. Emergency signs: severe breathing difficulty, blue lips or fingertips, rescue inhaler not helping, difficulty speaking or walking -- call emergency services immediately."
+    },
+    {
+      "id": "doc_08",
+      "title": "Anxiety and Physical Symptoms",
+      "source": "MedlinePlus / WHO Mental Health",
+      "lang": "en",
+      "text": "Anxiety disorders can cause significant physical symptoms due to the fight-or-flight response. Common physical symptoms include rapid heartbeat, chest tightness, shortness of breath, dizziness, sweating, trembling, muscle tension, headaches, nausea, dry mouth, fatigue, and insomnia. These symptoms are caused by stress hormones like adrenaline and cortisol. They can mimic heart disease, gastrointestinal conditions, and neurological problems, which is why medical evaluation is important to rule out other causes. Management includes cognitive behavioral therapy (CBT), relaxation techniques, regular exercise, limiting caffeine and alcohol, adequate sleep, and in some cases medication prescribed by a healthcare provider. Seek help if anxiety significantly affects daily life."
+    },
+    {
+      "id": "doc_09",
+      "title": "GERD and Acid Reflux",
+      "source": "MedlinePlus / NIDDK",
+      "lang": "en",
+      "text": "Gastroesophageal reflux disease (GERD) occurs when stomach acid frequently flows back into the esophagus. Symptoms include heartburn, regurgitation, difficulty swallowing, and a sensation of a lump in the throat. Lifestyle measures include eating smaller meals, avoiding lying down within 2-3 hours after eating, elevating the head of the bed, avoiding trigger foods (spicy, fatty, acidic, chocolate, caffeine, alcohol, mint), maintaining a healthy weight, quitting smoking, and wearing loose clothing. Over-the-counter antacids may provide temporary relief. See a doctor if symptoms occur more than twice a week, if there is difficulty swallowing, persistent vomiting, weight loss, or signs of bleeding."
+    },
+    {
+      "id": "doc_10",
+      "title": "Antibiotic Resistance",
+      "source": "WHO Fact Sheet -- AMR",
+      "lang": "en",
+      "text": "Antibiotic resistance occurs when bacteria change in response to antibiotics, making them less effective. This is a natural process but is accelerated by misuse and overuse. Key facts: antibiotics only work against bacteria, not viruses, so they do not treat colds or flu. Taking antibiotics when not needed or not finishing a prescribed course contributes to resistance. Resistant infections are harder to treat, require stronger antibiotics, longer hospital stays, and can be fatal. Prevention includes only using antibiotics when prescribed by a professional, completing the full course, never sharing or using leftover antibiotics, and preventing infections through good hygiene and vaccination. Antibiotic resistance is one of the biggest threats to global health."
+    },
+    {
+      "id": "doc_11",
+      "title": "HbA1c Test",
+      "source": "MedlinePlus / ADA",
+      "lang": "en",
+      "text": "The HbA1c (glycated hemoglobin) test measures average blood sugar over the past 2-3 months. It measures the percentage of hemoglobin coated with sugar. Normal: below 5.7 percent. Prediabetes: 5.7 to 6.4 percent. Diabetes: 6.5 percent or above. For people with diabetes a common target is below 7 percent, but individual targets may vary. The test does not require fasting. Factors that may affect results include certain anemias, kidney or liver disease, and recent blood loss or transfusion. Doctors use HbA1c to diagnose diabetes and to monitor how well it is being managed. Lowering HbA1c reduces the risk of complications including eye, kidney, and nerve damage."
+    },
+    {
+      "id": "doc_12",
+      "title": "Seasonal Allergies",
+      "source": "MedlinePlus / ACAAI",
+      "lang": "en",
+      "text": "Seasonal allergies (allergic rhinitis, hay fever) occur when the immune system overreacts to outdoor allergens such as pollen from trees, grasses, and weeds. Symptoms include sneezing, runny or stuffy nose, itchy or watery eyes, itchy throat or ears, and fatigue. Self-care includes checking pollen counts and staying indoors when counts are high, keeping windows closed, showering after being outdoors, using air purifiers with HEPA filters, and over-the-counter antihistamines or nasal corticosteroid sprays. See a doctor if symptoms are severe, interfere with daily life, over-the-counter medications are not helping, or if you develop sinus infections, ear infections, or asthma symptoms."
+    },
+    {
+      "id": "doc_13",
+      "title": "Fever -- When to Worry",
+      "source": "MedlinePlus / AAP",
+      "lang": "en",
+      "text": "Fever is a temporary increase in body temperature, usually in response to an infection. Normal body temperature is around 37C (98.6F). Fever is generally defined as 38C (100.4F) or higher. In adults, mild fevers up to 39C usually do not require treatment and help the body fight infection. Self-care: rest, stay hydrated, use a light blanket, and take paracetamol or ibuprofen if uncomfortable. In children under 3 months, any fever of 38C or above requires immediate medical attention. In children aged 3-36 months, seek care for fever above 39C. For a 2-year-old with fever of 40C who is very sleepy, this is a red flag and requires emergency medical care immediately. Dangerous signs at any age: stiff neck, severe headache, rash, persistent vomiting, difficulty breathing, confusion, seizures, or fever lasting more than 3 days."
+    },
+    {
+      "id": "doc_14",
+      "title": "Cholesterol",
+      "source": "MedlinePlus / AHA",
+      "lang": "en",
+      "text": "Cholesterol is a waxy substance found in blood. The body needs it to build cells but too much can cause problems. LDL (low-density lipoprotein) is called bad cholesterol because high levels lead to plaque buildup in arteries. HDL (high-density lipoprotein) is good cholesterol because it carries cholesterol away from arteries. Desirable levels: total cholesterol below 200 mg/dL, LDL below 100 mg/dL, HDL above 40 mg/dL for men and above 50 mg/dL for women. High LDL increases risk of heart disease and stroke. Lifestyle management: eat a heart-healthy diet (reduce saturated and trans fats, eat more fiber, fruits, vegetables), exercise regularly, maintain a healthy weight, quit smoking. Medications such as statins may be prescribed by a doctor if lifestyle changes are insufficient."
+    },
+    {
+      "id": "doc_15",
+      "title": "Iron Deficiency Anemia",
+      "source": "WHO / MedlinePlus",
+      "lang": "en",
+      "text": "Anemia occurs when the blood does not have enough healthy red blood cells or hemoglobin. Iron-deficiency anemia is the most common type. Causes include inadequate dietary iron, blood loss (heavy menstruation, GI bleeding), pregnancy, and absorption problems. Symptoms include fatigue, weakness, pale skin, shortness of breath on exertion, dizziness, cold hands and feet, brittle nails, headache, fast or irregular heartbeat, and unusual cravings (pica). Diagnosis is through blood tests including complete blood count and iron studies. Treatment depends on the cause and may include iron-rich foods (red meat, beans, lentils, spinach, fortified cereals), iron supplements as directed by a doctor, and treating the underlying cause. Seek urgent care for fainting, severe dizziness, chest pain, or severe shortness of breath."
+    }
+  ]
+}
