@@ -27,36 +27,8 @@ Improvement over Assignment 1:
 
 ## Architecture
 
-```
-User Query (EN/AR)
-       |
-       v
-  Language Detection
-       |
-       v
-  Query Embedding       Knowledge Base (15 docs: WHO, MedlinePlus, NHS)
-  (gemini-embedding-001)      |
-       |                 Chunking (400 words, 100 overlap)
-       |                      |
-       v                      v
-  +--------------------------------------+
-  |     ChromaDB Vector Store             |
-  |     (Cosine Similarity, top-k=5)      |
-  +------------------+-------------------+
-                     | Retrieved chunks
-                     v
-  +--------------------------------------+
-  |  RAG Prompt (context + citations +    |
-  |  safety rules)                        |
-  +------------------+-------------------+
-                     |
-                     v
-  +--------------------------------------+
-  |  Gemini 2.0 Flash (temp=0.3, seed=42)|
-  +------------------+-------------------+
-                     |
-                     v
-  Grounded Response with Citations
+
+![Architecture](fig_architecture.png)
 
 Evaluation:
   25 Test Cases --> A1 + A2 --> Judge (gemini-2.5-flash-lite, not the generation model)
